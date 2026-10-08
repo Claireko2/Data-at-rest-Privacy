@@ -1,0 +1,15 @@
+C:\Users\colle\Desktop\BCIT\BCS\Term 7\Database Security\MVP_1B2\KeyGenerator\obj\Debug\net9.0\KeyGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\colle\Desktop\BCIT\BCS\Term 7\Database Security\MVP_1B2\KeyGenerator\obj\Debug\net9.0\KeyGenerator.AssemblyInfoInputs.cache
+C:\Users\colle\Desktop\BCIT\BCS\Term 7\Database Security\MVP_1B2\KeyGenerator\obj\Debug\net9.0\KeyGenerator.AssemblyInfo.cs
+C:\Users\colle\Desktop\BCIT\BCS\Term 7\Database Security\MVP_1B2\KeyGenerator\obj\Debug\net9.0\KeyGenerator.csproj.CoreCompileInputs.cache
+C:\Users\colle\Desktop\BCIT\BCS\Term 7\Database Security\MVP_1B2\KeyGenerator\obj\Debug\net9.0\KeyGenerator.sourcelink.json
+C:\Users\colle\Desktop\BCIT\BCS\Term 7\Database Security\MVP_1B2\KeyGenerator\bin\Debug\net9.0\KeyGenerator.exe
+C:\Users\colle\Desktop\BCIT\BCS\Term 7\Database Security\MVP_1B2\KeyGenerator\bin\Debug\net9.0\KeyGenerator.deps.json
+C:\Users\colle\Desktop\BCIT\BCS\Term 7\Database Security\MVP_1B2\KeyGenerator\bin\Debug\net9.0\KeyGenerator.runtimeconfig.json
+C:\Users\colle\Desktop\BCIT\BCS\Term 7\Database Security\MVP_1B2\KeyGenerator\bin\Debug\net9.0\KeyGenerator.dll
+C:\Users\colle\Desktop\BCIT\BCS\Term 7\Database Security\MVP_1B2\KeyGenerator\bin\Debug\net9.0\KeyGenerator.pdb
+C:\Users\colle\Desktop\BCIT\BCS\Term 7\Database Security\MVP_1B2\KeyGenerator\obj\Debug\net9.0\KeyGenerator.dll
+C:\Users\colle\Desktop\BCIT\BCS\Term 7\Database Security\MVP_1B2\KeyGenerator\obj\Debug\net9.0\refint\KeyGenerator.dll
+C:\Users\colle\Desktop\BCIT\BCS\Term 7\Database Security\MVP_1B2\KeyGenerator\obj\Debug\net9.0\KeyGenerator.pdb
+C:\Users\colle\Desktop\BCIT\BCS\Term 7\Database Security\MVP_1B2\KeyGenerator\obj\Debug\net9.0\KeyGenerator.genruntimeconfig.cache
+C:\Users\colle\Desktop\BCIT\BCS\Term 7\Database Security\MVP_1B2\KeyGenerator\obj\Debug\net9.0\ref\KeyGenerator.dll

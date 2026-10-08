@@ -7,6 +7,7 @@ C:\Users\colle\Desktop\BCIT\BCS\Term 7\Database Security\MVP_1B2\MVP_1B2.License
 C:\Users\colle\Desktop\BCIT\BCS\Term 7\Database Security\MVP_1B2\MVP_1B2.LicenseIssuer\obj\Debug\net9.0\MVP_1B2.LicenseIssuer.AssemblyInfoInputs.cache
 C:\Users\colle\Desktop\BCIT\BCS\Term 7\Database Security\MVP_1B2\MVP_1B2.LicenseIssuer\obj\Debug\net9.0\MVP_1B2.LicenseIssuer.AssemblyInfo.cs
 C:\Users\colle\Desktop\BCIT\BCS\Term 7\Database Security\MVP_1B2\MVP_1B2.LicenseIssuer\obj\Debug\net9.0\MVP_1B2.LicenseIssuer.csproj.CoreCompileInputs.cache
+C:\Users\colle\Desktop\BCIT\BCS\Term 7\Database Security\MVP_1B2\MVP_1B2.LicenseIssuer\obj\Debug\net9.0\MVP_1B2.LicenseIssuer.sourcelink.json
 C:\Users\colle\Desktop\BCIT\BCS\Term 7\Database Security\MVP_1B2\MVP_1B2.LicenseIssuer\obj\Debug\net9.0\MVP_1B2.LicenseIssuer.dll
 C:\Users\colle\Desktop\BCIT\BCS\Term 7\Database Security\MVP_1B2\MVP_1B2.LicenseIssuer\obj\Debug\net9.0\refint\MVP_1B2.LicenseIssuer.dll
 C:\Users\colle\Desktop\BCIT\BCS\Term 7\Database Security\MVP_1B2\MVP_1B2.LicenseIssuer\obj\Debug\net9.0\MVP_1B2.LicenseIssuer.pdb

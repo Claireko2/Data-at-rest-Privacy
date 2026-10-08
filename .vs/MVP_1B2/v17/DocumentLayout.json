@@ -3,8 +3,104 @@
   "WorkspaceRootPath": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|c:\\users\\colle\\desktop\\bcit\\bcs\\term 7\\database security\\mvp_1b2\\mvp_1b2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|solutionrelative:mvp_1b2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|c:\\users\\colle\\desktop\\bcit\\bcs\\term 7\\database security\\mvp_1b2\\mvp_1b2\\app_data\\license.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|solutionrelative:mvp_1b2\\app_data\\license.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|c:\\users\\colle\\desktop\\bcit\\bcs\\term 7\\database security\\mvp_1b2\\mvp_1b2\\services\\licenseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|solutionrelative:mvp_1b2\\services\\licenseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|c:\\users\\colle\\desktop\\bcit\\bcs\\term 7\\database security\\mvp_1b2\\mvp_1b2\\controllers\\securitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|solutionrelative:mvp_1b2\\controllers\\securitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE97C3A4-E614-486A-8EF0-31F3D253FDAD}|MVP_1B2.LicenseIssuer\\MVP_1B2.LicenseIssuer.csproj|c:\\users\\colle\\desktop\\bcit\\bcs\\term 7\\database security\\mvp_1b2\\mvp_1b2.licenseissuer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE97C3A4-E614-486A-8EF0-31F3D253FDAD}|MVP_1B2.LicenseIssuer\\MVP_1B2.LicenseIssuer.csproj|solutionrelative:mvp_1b2.licenseissuer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|c:\\users\\colle\\desktop\\bcit\\bcs\\term 7\\database security\\mvp_1b2\\mvp_1b2\\models\\licensedocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|solutionrelative:mvp_1b2\\models\\licensedocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|c:\\users\\colle\\desktop\\bcit\\bcs\\term 7\\database security\\mvp_1b2\\mvp_1b2\\services\\licensevalidationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|solutionrelative:mvp_1b2\\services\\licensevalidationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|c:\\users\\colle\\desktop\\bcit\\bcs\\term 7\\database security\\mvp_1b2\\mvp_1b2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|solutionrelative:mvp_1b2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|c:\\users\\colle\\desktop\\bcit\\bcs\\term 7\\database security\\mvp_1b2\\mvp_1b2\\services\\customstreamcipherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|solutionrelative:mvp_1b2\\services\\customstreamcipherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|c:\\users\\colle\\desktop\\bcit\\bcs\\term 7\\database security\\mvp_1b2\\mvp_1b2\\testfiles\\test_tampered.mvp||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|solutionrelative:mvp_1b2\\testfiles\\test_tampered.mvp||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|c:\\users\\colle\\desktop\\bcit\\bcs\\term 7\\database security\\mvp_1b2\\mvp_1b2\\testfiles\\test_decrypted.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|solutionrelative:mvp_1b2\\testfiles\\test_decrypted.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|c:\\users\\colle\\desktop\\bcit\\bcs\\term 7\\database security\\mvp_1b2\\mvp_1b2\\testfiles\\test.txt.mvp1||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|solutionrelative:mvp_1b2\\testfiles\\test.txt.mvp1||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|c:\\users\\colle\\desktop\\bcit\\bcs\\term 7\\database security\\mvp_1b2\\mvp_1b2\\testfiles\\test.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|solutionrelative:mvp_1b2\\testfiles\\test.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|c:\\users\\colle\\desktop\\bcit\\bcs\\term 7\\database security\\mvp_1b2\\mvp_1b2\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|solutionrelative:mvp_1b2\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D557349-D529-4BBA-9D47-39D08EEEADF4}|KeyGenerator\\KeyGenerator.csproj|c:\\users\\colle\\desktop\\bcit\\bcs\\term 7\\database security\\mvp_1b2\\keygenerator\\keygenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D557349-D529-4BBA-9D47-39D08EEEADF4}|KeyGenerator\\KeyGenerator.csproj|solutionrelative:keygenerator\\keygenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|c:\\users\\colle\\desktop\\bcit\\bcs\\term 7\\database security\\mvp_1b2\\mvp_1b2\\services\\auditservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|solutionrelative:mvp_1b2\\services\\auditservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|c:\\users\\colle\\desktop\\bcit\\bcs\\term 7\\database security\\mvp_1b2\\mvp_1b2\\services\\nonrepudiationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|solutionrelative:mvp_1b2\\services\\nonrepudiationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|c:\\users\\colle\\desktop\\bcit\\bcs\\term 7\\database security\\mvp_1b2\\mvp_1b2\\clientcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|solutionrelative:mvp_1b2\\clientcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|c:\\users\\colle\\desktop\\bcit\\bcs\\term 7\\database security\\mvp_1b2\\mvp_1b2\\views\\clients\\verifyaudit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|solutionrelative:mvp_1b2\\views\\clients\\verifyaudit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|c:\\users\\colle\\desktop\\bcit\\bcs\\term 7\\database security\\mvp_1b2\\mvp_1b2\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|solutionrelative:mvp_1b2\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|c:\\users\\colle\\desktop\\bcit\\bcs\\term 7\\database security\\mvp_1b2\\mvp_1b2\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|solutionrelative:mvp_1b2\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|c:\\users\\colle\\desktop\\bcit\\bcs\\term 7\\database security\\mvp_1b2\\mvp_1b2\\middleware\\licensevalidationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|solutionrelative:mvp_1b2\\middleware\\licensevalidationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|c:\\users\\colle\\desktop\\bcit\\bcs\\term 7\\database security\\mvp_1b2\\mvp_1b2\\services\\licenseoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|solutionrelative:mvp_1b2\\services\\licenseoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|c:\\users\\colle\\desktop\\bcit\\bcs\\term 7\\database security\\mvp_1b2\\mvp_1b2\\services\\ilicenseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|solutionrelative:mvp_1b2\\services\\ilicenseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|c:\\users\\colle\\desktop\\bcit\\bcs\\term 7\\database security\\mvp_1b2\\mvp_1b2\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|solutionrelative:mvp_1b2\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|c:\\users\\colle\\desktop\\bcit\\bcs\\term 7\\database security\\mvp_1b2\\mvp_1b2\\viewmodels\\adminuserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,10 +131,6 @@
       "RelativeMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|solutionrelative:mvp_1b2\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|c:\\users\\colle\\desktop\\bcit\\bcs\\term 7\\database security\\mvp_1b2\\mvp_1b2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|solutionrelative:mvp_1b2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|c:\\users\\colle\\desktop\\bcit\\bcs\\term 7\\database security\\mvp_1b2\\mvp_1b2\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|solutionrelative:mvp_1b2\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -63,10 +155,6 @@
       "RelativeMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|solutionrelative:mvp_1b2\\areas\\identity\\pages\\account\\externallogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE97C3A4-E614-486A-8EF0-31F3D253FDAD}|MVP_1B2.LicenseIssuer\\MVP_1B2.LicenseIssuer.csproj|c:\\users\\colle\\desktop\\bcit\\bcs\\term 7\\database security\\mvp_1b2\\mvp_1b2.licenseissuer\\mvp_1b2.licenseissuer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{CE97C3A4-E614-486A-8EF0-31F3D253FDAD}|MVP_1B2.LicenseIssuer\\MVP_1B2.LicenseIssuer.csproj|solutionrelative:mvp_1b2.licenseissuer\\mvp_1b2.licenseissuer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|c:\\users\\colle\\desktop\\bcit\\bcs\\term 7\\database security\\mvp_1b2\\mvp_1b2\\obfuscar.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|solutionrelative:mvp_1b2\\obfuscar.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
@@ -75,40 +163,8 @@
       "RelativeMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|solutionrelative:mvp_1b2\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|c:\\users\\colle\\desktop\\bcit\\bcs\\term 7\\database security\\mvp_1b2\\mvp_1b2\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|solutionrelative:mvp_1b2\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|c:\\users\\colle\\desktop\\bcit\\bcs\\term 7\\database security\\mvp_1b2\\mvp_1b2\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|solutionrelative:mvp_1b2\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|c:\\users\\colle\\desktop\\bcit\\bcs\\term 7\\database security\\mvp_1b2\\mvp_1b2\\middleware\\ipfilteringmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|solutionrelative:mvp_1b2\\middleware\\ipfilteringmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|c:\\users\\colle\\desktop\\bcit\\bcs\\term 7\\database security\\mvp_1b2\\mvp_1b2\\middleware\\licensevalidationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|solutionrelative:mvp_1b2\\middleware\\licensevalidationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|c:\\users\\colle\\desktop\\bcit\\bcs\\term 7\\database security\\mvp_1b2\\mvp_1b2\\services\\licenseoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|solutionrelative:mvp_1b2\\services\\licenseoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|c:\\users\\colle\\desktop\\bcit\\bcs\\term 7\\database security\\mvp_1b2\\mvp_1b2\\services\\licensepayload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|solutionrelative:mvp_1b2\\services\\licensepayload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|c:\\users\\colle\\desktop\\bcit\\bcs\\term 7\\database security\\mvp_1b2\\mvp_1b2\\services\\licenseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|solutionrelative:mvp_1b2\\services\\licenseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|c:\\users\\colle\\desktop\\bcit\\bcs\\term 7\\database security\\mvp_1b2\\mvp_1b2\\services\\ilicenseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|solutionrelative:mvp_1b2\\services\\ilicenseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|c:\\users\\colle\\desktop\\bcit\\bcs\\term 7\\database security\\mvp_1b2\\mvp_1b2\\services\\licensevalidationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|solutionrelative:mvp_1b2\\services\\licensevalidationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|c:\\users\\colle\\desktop\\bcit\\bcs\\term 7\\database security\\mvp_1b2\\mvp_1b2\\services\\itwofactorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -139,20 +195,12 @@
       "RelativeMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|solutionrelative:mvp_1b2\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|c:\\users\\colle\\desktop\\bcit\\bcs\\term 7\\database security\\mvp_1b2\\mvp_1b2\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|solutionrelative:mvp_1b2\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|c:\\users\\colle\\desktop\\bcit\\bcs\\term 7\\database security\\mvp_1b2\\mvp_1b2\\views\\clients\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|solutionrelative:mvp_1b2\\views\\clients\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|c:\\users\\colle\\desktop\\bcit\\bcs\\term 7\\database security\\mvp_1b2\\mvp_1b2\\views\\clients\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|solutionrelative:mvp_1b2\\views\\clients\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|c:\\users\\colle\\desktop\\bcit\\bcs\\term 7\\database security\\mvp_1b2\\mvp_1b2\\mvp_1b2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|solutionrelative:mvp_1b2\\mvp_1b2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|c:\\users\\colle\\desktop\\bcit\\bcs\\term 7\\database security\\mvp_1b2\\mvp_1b2\\migrations\\clientcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -165,10 +213,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|c:\\users\\colle\\desktop\\bcit\\bcs\\term 7\\database security\\mvp_1b2\\mvp_1b2\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|solutionrelative:mvp_1b2\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|c:\\users\\colle\\desktop\\bcit\\bcs\\term 7\\database security\\mvp_1b2\\mvp_1b2\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|solutionrelative:mvp_1b2\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{533F13E2-9077-489E-A890-27CDAEEF6CF9}|MVP_1B2\\MVP_1B2.csproj|c:\\users\\colle\\desktop\\bcit\\bcs\\term 7\\database security\\mvp_1b2\\mvp_1b2\\migrations\\20250128063156_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -256,8 +300,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "DockedWidth": 1109,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -293,275 +337,249 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Program.cs",
               "RelativeDocumentMoniker": "MVP_1B2\\Program.cs",
               "ToolTip": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Program.cs",
               "RelativeToolTip": "MVP_1B2\\Program.cs",
-              "ViewState": "AgIAAPoAAAAAAAAAAAAuwDUAAABIAAAAAAAAAA==",
+              "ViewState": "AgIAALIAAAAAAAAAAAAnwCoBAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T06:28:01.599Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "EmployeesController.cs",
-              "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Controllers\\EmployeesController.cs",
-              "RelativeDocumentMoniker": "MVP_1B2\\Controllers\\EmployeesController.cs",
-              "ToolTip": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Controllers\\EmployeesController.cs",
-              "RelativeToolTip": "MVP_1B2\\Controllers\\EmployeesController.cs",
-              "ViewState": "AgIAAH0BAAAAAAAAAAAAwJQBAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T06:34:02.37Z",
+              "WhenOpened": "2026-10-07T22:52:20.839Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "MVP_1B2\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "MVP_1B2\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAACYAAAAAAAAAAAAswEgAAAB0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-28T06:38:05.749Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ClientContext.cs",
-              "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\ClientContext.cs",
-              "RelativeDocumentMoniker": "MVP_1B2\\ClientContext.cs",
-              "ToolTip": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\ClientContext.cs",
-              "RelativeToolTip": "MVP_1B2\\ClientContext.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2.LicenseIssuer\\Program.cs",
+              "RelativeDocumentMoniker": "MVP_1B2.LicenseIssuer\\Program.cs",
+              "ToolTip": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2.LicenseIssuer\\Program.cs",
+              "RelativeToolTip": "MVP_1B2.LicenseIssuer\\Program.cs",
+              "ViewState": "AgIAAO8AAAAAAAAAAAAUwAQAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T06:26:21.707Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Models\\ApplicationUser.cs",
-              "RelativeDocumentMoniker": "MVP_1B2\\Models\\ApplicationUser.cs",
-              "ToolTip": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Models\\ApplicationUser.cs",
-              "RelativeToolTip": "MVP_1B2\\Models\\ApplicationUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-21T23:12:37.531Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ClientService.cs",
-              "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Models\\ClientService.cs",
-              "RelativeDocumentMoniker": "MVP_1B2\\Models\\ClientService.cs",
-              "ToolTip": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Models\\ClientService.cs",
-              "RelativeToolTip": "MVP_1B2\\Models\\ClientService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T06:25:02.191Z",
+              "WhenOpened": "2026-10-07T23:10:21.394Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AdminUserViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\ViewModels\\AdminUserViewModel.cs",
-              "RelativeDocumentMoniker": "MVP_1B2\\ViewModels\\AdminUserViewModel.cs",
-              "ToolTip": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\ViewModels\\AdminUserViewModel.cs",
-              "RelativeToolTip": "MVP_1B2\\ViewModels\\AdminUserViewModel.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAA1wBIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-22T00:25:06.315Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "MVP_1B2\\Controllers\\UsersController.cs",
-              "ToolTip": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "MVP_1B2\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-22T00:25:46.37Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PeopleController.cs",
-              "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Controllers\\PeopleController.cs",
-              "RelativeDocumentMoniker": "MVP_1B2\\Controllers\\PeopleController.cs",
-              "ToolTip": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Controllers\\PeopleController.cs",
-              "RelativeToolTip": "MVP_1B2\\Controllers\\PeopleController.cs",
-              "ViewState": "AgIAAHAAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-23T22:42:29.278Z",
+              "Title": "license.json",
+              "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\App_Data\\license.json",
+              "RelativeDocumentMoniker": "MVP_1B2\\App_Data\\license.json",
+              "ToolTip": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\App_Data\\license.json",
+              "RelativeToolTip": "MVP_1B2\\App_Data\\license.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-07T23:02:07.176Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "MVP_1B2\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "MVP_1B2\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAB8BAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-21T23:07:58.984Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\appsettings.json",
+              "RelativeDocumentMoniker": "MVP_1B2\\appsettings.json",
+              "ToolTip": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\appsettings.json",
+              "RelativeToolTip": "MVP_1B2\\appsettings.json",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-04T08:40:36.978Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AccountManagementController.cs",
-              "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Controllers\\AccountManagementController.cs",
-              "RelativeDocumentMoniker": "MVP_1B2\\Controllers\\AccountManagementController.cs",
-              "ToolTip": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Controllers\\AccountManagementController.cs",
-              "RelativeToolTip": "MVP_1B2\\Controllers\\AccountManagementController.cs",
-              "ViewState": "AgIAAMUAAAAAAAAAAAAgwNEAAAABAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "LicenseValidationResult.cs",
+              "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Services\\LicenseValidationResult.cs",
+              "RelativeDocumentMoniker": "MVP_1B2\\Services\\LicenseValidationResult.cs",
+              "ToolTip": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Services\\LicenseValidationResult.cs",
+              "RelativeToolTip": "MVP_1B2\\Services\\LicenseValidationResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-22T00:09:39.325Z",
+              "WhenOpened": "2026-09-22T02:11:28.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LicenseDocument.cs",
+              "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Models\\LicenseDocument.cs",
+              "RelativeDocumentMoniker": "MVP_1B2\\Models\\LicenseDocument.cs",
+              "ToolTip": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Models\\LicenseDocument.cs",
+              "RelativeToolTip": "MVP_1B2\\Models\\LicenseDocument.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T21:47:20.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LicenseService.cs",
+              "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Services\\LicenseService.cs",
+              "RelativeDocumentMoniker": "MVP_1B2\\Services\\LicenseService.cs",
+              "ToolTip": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Services\\LicenseService.cs",
+              "RelativeToolTip": "MVP_1B2\\Services\\LicenseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T02:11:02.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SecurityController.cs",
+              "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Controllers\\SecurityController.cs",
+              "RelativeDocumentMoniker": "MVP_1B2\\Controllers\\SecurityController.cs",
+              "ToolTip": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Controllers\\SecurityController.cs",
+              "RelativeToolTip": "MVP_1B2\\Controllers\\SecurityController.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T22:37:08.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomStreamCipherService.cs",
+              "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Services\\CustomStreamCipherService.cs",
+              "RelativeDocumentMoniker": "MVP_1B2\\Services\\CustomStreamCipherService.cs",
+              "ToolTip": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Services\\CustomStreamCipherService.cs",
+              "RelativeToolTip": "MVP_1B2\\Services\\CustomStreamCipherService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T22:31:39.752Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "Login.cshtml.cs.backup",
-              "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs.backup",
-              "RelativeDocumentMoniker": "MVP_1B2\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs.backup",
-              "ToolTip": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs.backup",
-              "RelativeToolTip": "MVP_1B2\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs.backup",
-              "ViewState": "AgIAAGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "test.txt.mvp1",
+              "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\TestFiles\\test.txt.mvp1",
+              "RelativeDocumentMoniker": "MVP_1B2\\TestFiles\\test.txt.mvp1",
+              "ToolTip": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\TestFiles\\test.txt.mvp1",
+              "RelativeToolTip": "MVP_1B2\\TestFiles\\test.txt.mvp1",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-09-21T22:26:18.307Z",
+              "WhenOpened": "2026-10-06T23:37:09.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "test_tampered.mvp",
+              "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\TestFiles\\test_tampered.mvp",
+              "RelativeDocumentMoniker": "MVP_1B2\\TestFiles\\test_tampered.mvp",
+              "ToolTip": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\TestFiles\\test_tampered.mvp",
+              "RelativeToolTip": "MVP_1B2\\TestFiles\\test_tampered.mvp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-06T23:41:42.721Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "LoginWith2fa.cshtml",
-              "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml",
-              "RelativeDocumentMoniker": "MVP_1B2\\Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml",
-              "ToolTip": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml",
-              "RelativeToolTip": "MVP_1B2\\Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml",
+              "Title": "test.txt",
+              "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\TestFiles\\test.txt",
+              "RelativeDocumentMoniker": "MVP_1B2\\TestFiles\\test.txt",
+              "ToolTip": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\TestFiles\\test.txt",
+              "RelativeToolTip": "MVP_1B2\\TestFiles\\test.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-23T22:43:29.088Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Login.cshtml.backup",
-              "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Areas\\Identity\\Pages\\Account\\Login.cshtml.backup",
-              "RelativeDocumentMoniker": "MVP_1B2\\Areas\\Identity\\Pages\\Account\\Login.cshtml.backup",
-              "ToolTip": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Areas\\Identity\\Pages\\Account\\Login.cshtml.backup",
-              "RelativeToolTip": "MVP_1B2\\Areas\\Identity\\Pages\\Account\\Login.cshtml.backup",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAADgAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-09-21T22:26:15.49Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ExternalLogin.cshtml",
-              "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml",
-              "RelativeDocumentMoniker": "MVP_1B2\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml",
-              "ToolTip": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml",
-              "RelativeToolTip": "MVP_1B2\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-21T22:25:24.564Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "obfuscar.xml",
-              "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\obfuscar.xml",
-              "RelativeDocumentMoniker": "MVP_1B2\\obfuscar.xml",
-              "ToolTip": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\obfuscar.xml",
-              "RelativeToolTip": "MVP_1B2\\obfuscar.xml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2026-09-23T22:42:07.063Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Service.cs",
-              "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Models\\Service.cs",
-              "RelativeDocumentMoniker": "MVP_1B2\\Models\\Service.cs",
-              "ToolTip": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Models\\Service.cs",
-              "RelativeToolTip": "MVP_1B2\\Models\\Service.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T06:24:35.522Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Person.cs",
-              "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Models\\Person.cs",
-              "RelativeDocumentMoniker": "MVP_1B2\\Models\\Person.cs",
-              "ToolTip": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Models\\Person.cs",
-              "RelativeToolTip": "MVP_1B2\\Models\\Person.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T06:22:53.254Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Client.cs",
-              "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Models\\Client.cs",
-              "RelativeDocumentMoniker": "MVP_1B2\\Models\\Client.cs",
-              "ToolTip": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Models\\Client.cs",
-              "RelativeToolTip": "MVP_1B2\\Models\\Client.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T06:23:29.999Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-10-06T23:44:43.846Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "MVP_1B2.LicenseIssuer",
-              "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2.LicenseIssuer\\MVP_1B2.LicenseIssuer.csproj",
-              "RelativeDocumentMoniker": "MVP_1B2.LicenseIssuer\\MVP_1B2.LicenseIssuer.csproj",
-              "ToolTip": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2.LicenseIssuer\\MVP_1B2.LicenseIssuer.csproj",
-              "RelativeToolTip": "MVP_1B2.LicenseIssuer\\MVP_1B2.LicenseIssuer.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-09-22T02:09:11.078Z",
+              "Title": "AuditService.cs",
+              "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Services\\AuditService.cs",
+              "RelativeDocumentMoniker": "MVP_1B2\\Services\\AuditService.cs",
+              "ToolTip": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Services\\AuditService.cs",
+              "RelativeToolTip": "MVP_1B2\\Services\\AuditService.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAQwEsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T01:04:08.009Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "IpFilteringMiddleware.cs",
-              "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Middleware\\IpFilteringMiddleware.cs",
-              "RelativeDocumentMoniker": "MVP_1B2\\Middleware\\IpFilteringMiddleware.cs",
-              "ToolTip": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Middleware\\IpFilteringMiddleware.cs",
-              "RelativeToolTip": "MVP_1B2\\Middleware\\IpFilteringMiddleware.cs",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAowAQAAAABAAAAAAAAAA==",
+              "DocumentIndex": 14,
+              "Title": "KeyGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\KeyGenerator\\KeyGenerator.cs",
+              "RelativeDocumentMoniker": "KeyGenerator\\KeyGenerator.cs",
+              "ToolTip": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\KeyGenerator\\KeyGenerator.cs",
+              "RelativeToolTip": "KeyGenerator\\KeyGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-20T04:35:33.367Z",
+              "WhenOpened": "2026-10-06T00:50:36.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "test_decrypted.txt",
+              "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\TestFiles\\test_decrypted.txt",
+              "RelativeDocumentMoniker": "MVP_1B2\\TestFiles\\test_decrypted.txt",
+              "ToolTip": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\TestFiles\\test_decrypted.txt",
+              "RelativeToolTip": "MVP_1B2\\TestFiles\\test_decrypted.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-10-06T23:44:45.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "NonRepudiationService.cs",
+              "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Services\\NonRepudiationService.cs",
+              "RelativeDocumentMoniker": "MVP_1B2\\Services\\NonRepudiationService.cs",
+              "ToolTip": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Services\\NonRepudiationService.cs",
+              "RelativeToolTip": "MVP_1B2\\Services\\NonRepudiationService.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T00:27:42.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ClientsController.cs",
+              "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Controllers\\ClientsController.cs",
+              "RelativeDocumentMoniker": "MVP_1B2\\Controllers\\ClientsController.cs",
+              "ToolTip": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Controllers\\ClientsController.cs",
+              "RelativeToolTip": "MVP_1B2\\Controllers\\ClientsController.cs",
+              "ViewState": "AgIAAMUBAAAAAAAAAAAAwEcCAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T06:55:19.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "VerifyAudit.cshtml",
+              "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Views\\Clients\\VerifyAudit.cshtml",
+              "RelativeDocumentMoniker": "MVP_1B2\\Views\\Clients\\VerifyAudit.cshtml",
+              "ToolTip": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Views\\Clients\\VerifyAudit.cshtml",
+              "RelativeToolTip": "MVP_1B2\\Views\\Clients\\VerifyAudit.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwDAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T01:37:54.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ClientContext.cs",
+              "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\ClientContext.cs",
+              "RelativeDocumentMoniker": "MVP_1B2\\ClientContext.cs",
+              "ToolTip": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\ClientContext.cs",
+              "RelativeToolTip": "MVP_1B2\\ClientContext.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAYwJUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T01:50:43.361Z",
               "EditorCaption": ""
             },
             {
@@ -572,49 +590,9 @@
               "RelativeDocumentMoniker": "MVP_1B2\\Middleware\\LicenseValidationMiddleware.cs",
               "ToolTip": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Middleware\\LicenseValidationMiddleware.cs",
               "RelativeToolTip": "MVP_1B2\\Middleware\\LicenseValidationMiddleware.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-22T02:09:55.001Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "ILicenseService.cs",
-              "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Services\\ILicenseService.cs",
-              "RelativeDocumentMoniker": "MVP_1B2\\Services\\ILicenseService.cs",
-              "ToolTip": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Services\\ILicenseService.cs",
-              "RelativeToolTip": "MVP_1B2\\Services\\ILicenseService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-22T02:10:32.866Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "LicenseService.cs",
-              "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Services\\LicenseService.cs",
-              "RelativeDocumentMoniker": "MVP_1B2\\Services\\LicenseService.cs",
-              "ToolTip": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Services\\LicenseService.cs",
-              "RelativeToolTip": "MVP_1B2\\Services\\LicenseService.cs",
-              "ViewState": "AgIAAHQAAAAAAAAAAAAAAM0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-22T02:11:02.009Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "LicensePayload.cs",
-              "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Services\\LicensePayload.cs",
-              "RelativeDocumentMoniker": "MVP_1B2\\Services\\LicensePayload.cs",
-              "ToolTip": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Services\\LicensePayload.cs",
-              "RelativeToolTip": "MVP_1B2\\Services\\LicensePayload.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-22T02:11:02.909Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-22T02:09:55.001Z"
             },
             {
               "$type": "Document",
@@ -626,25 +604,252 @@
               "RelativeToolTip": "MVP_1B2\\Services\\LicenseOptions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-22T02:10:52.368Z",
+              "WhenOpened": "2026-09-22T02:10:52.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "MVP_1B2\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Models\\Client.cs",
+              "RelativeToolTip": "MVP_1B2\\Models\\Client.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA1wAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T06:23:29.999Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "MVP_1B2\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Models\\Person.cs",
+              "RelativeToolTip": "MVP_1B2\\Models\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T06:22:53.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ILicenseService.cs",
+              "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Services\\ILicenseService.cs",
+              "RelativeDocumentMoniker": "MVP_1B2\\Services\\ILicenseService.cs",
+              "ToolTip": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Services\\ILicenseService.cs",
+              "RelativeToolTip": "MVP_1B2\\Services\\ILicenseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T02:10:32.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "MVP_1B2\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Models\\Employee.cs",
+              "RelativeToolTip": "MVP_1B2\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T06:24:07.671Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 26,
-              "Title": "LicenseValidationResult.cs",
-              "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Services\\LicenseValidationResult.cs",
-              "RelativeDocumentMoniker": "MVP_1B2\\Services\\LicenseValidationResult.cs",
-              "ToolTip": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Services\\LicenseValidationResult.cs",
-              "RelativeToolTip": "MVP_1B2\\Services\\LicenseValidationResult.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Title": "ClientService.cs",
+              "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Models\\ClientService.cs",
+              "RelativeDocumentMoniker": "MVP_1B2\\Models\\ClientService.cs",
+              "ToolTip": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Models\\ClientService.cs",
+              "RelativeToolTip": "MVP_1B2\\Models\\ClientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-22T02:11:28.855Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T06:25:02.191Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 27,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "MVP_1B2\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "MVP_1B2\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T23:12:37.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVP_1B2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVP_1B2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACYAAAAAAAAAAAAswEgAAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T06:38:05.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "MVP_1B2\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "MVP_1B2\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAH0BAAAAAAAAAAAAwJQBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T06:34:02.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AdminUserViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\ViewModels\\AdminUserViewModel.cs",
+              "RelativeDocumentMoniker": "MVP_1B2\\ViewModels\\AdminUserViewModel.cs",
+              "ToolTip": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\ViewModels\\AdminUserViewModel.cs",
+              "RelativeToolTip": "MVP_1B2\\ViewModels\\AdminUserViewModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA1wBIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T00:25:06.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "MVP_1B2\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "MVP_1B2\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T00:25:46.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "PeopleController.cs",
+              "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Controllers\\PeopleController.cs",
+              "RelativeDocumentMoniker": "MVP_1B2\\Controllers\\PeopleController.cs",
+              "ToolTip": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Controllers\\PeopleController.cs",
+              "RelativeToolTip": "MVP_1B2\\Controllers\\PeopleController.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T22:42:29.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "MVP_1B2\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "MVP_1B2\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAB8BAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T23:07:58.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AccountManagementController.cs",
+              "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Controllers\\AccountManagementController.cs",
+              "RelativeDocumentMoniker": "MVP_1B2\\Controllers\\AccountManagementController.cs",
+              "ToolTip": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Controllers\\AccountManagementController.cs",
+              "RelativeToolTip": "MVP_1B2\\Controllers\\AccountManagementController.cs",
+              "ViewState": "AgIAAMUAAAAAAAAAAAAgwNEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T00:09:39.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Login.cshtml.cs.backup",
+              "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs.backup",
+              "RelativeDocumentMoniker": "MVP_1B2\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs.backup",
+              "ToolTip": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs.backup",
+              "RelativeToolTip": "MVP_1B2\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs.backup",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-09-21T22:26:18.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "LoginWith2fa.cshtml",
+              "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml",
+              "RelativeDocumentMoniker": "MVP_1B2\\Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml",
+              "ToolTip": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml",
+              "RelativeToolTip": "MVP_1B2\\Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-23T22:43:29.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Login.cshtml.backup",
+              "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Areas\\Identity\\Pages\\Account\\Login.cshtml.backup",
+              "RelativeDocumentMoniker": "MVP_1B2\\Areas\\Identity\\Pages\\Account\\Login.cshtml.backup",
+              "ToolTip": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Areas\\Identity\\Pages\\Account\\Login.cshtml.backup",
+              "RelativeToolTip": "MVP_1B2\\Areas\\Identity\\Pages\\Account\\Login.cshtml.backup",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-09-21T22:26:15.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ExternalLogin.cshtml",
+              "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml",
+              "RelativeDocumentMoniker": "MVP_1B2\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml",
+              "ToolTip": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml",
+              "RelativeToolTip": "MVP_1B2\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-21T22:25:24.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "obfuscar.xml",
+              "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\obfuscar.xml",
+              "RelativeDocumentMoniker": "MVP_1B2\\obfuscar.xml",
+              "ToolTip": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\obfuscar.xml",
+              "RelativeToolTip": "MVP_1B2\\obfuscar.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-09-23T22:42:07.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Models\\Service.cs",
+              "RelativeDocumentMoniker": "MVP_1B2\\Models\\Service.cs",
+              "ToolTip": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Models\\Service.cs",
+              "RelativeToolTip": "MVP_1B2\\Models\\Service.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T06:24:35.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IpFilteringMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Middleware\\IpFilteringMiddleware.cs",
+              "RelativeDocumentMoniker": "MVP_1B2\\Middleware\\IpFilteringMiddleware.cs",
+              "ToolTip": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Middleware\\IpFilteringMiddleware.cs",
+              "RelativeToolTip": "MVP_1B2\\Middleware\\IpFilteringMiddleware.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAowAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-20T04:35:33.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
               "Title": "ITwoFactorService.cs",
               "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Services\\ITwoFactorService.cs",
               "RelativeDocumentMoniker": "MVP_1B2\\Services\\ITwoFactorService.cs",
@@ -652,12 +857,11 @@
               "RelativeToolTip": "MVP_1B2\\Services\\ITwoFactorService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-22T02:10:43.817Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-22T02:10:43.817Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 42,
               "Title": "TwoFactorController.cs",
               "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Controllers\\TwoFactorController.cs",
               "RelativeDocumentMoniker": "MVP_1B2\\Controllers\\TwoFactorController.cs",
@@ -665,12 +869,11 @@
               "RelativeToolTip": "MVP_1B2\\Controllers\\TwoFactorController.cs",
               "ViewState": "AgIAAEEAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-22T22:16:41.933Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-22T22:16:41.933Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 43,
               "Title": "TwilioTwoFactorService.cs",
               "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Services\\TwilioTwoFactorService.cs",
               "RelativeDocumentMoniker": "MVP_1B2\\Services\\TwilioTwoFactorService.cs",
@@ -678,12 +881,11 @@
               "RelativeToolTip": "MVP_1B2\\Services\\TwilioTwoFactorService.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-22T22:15:55.799Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-22T22:15:55.799Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 44,
               "Title": "TwilioOptions.cs",
               "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Services\\TwilioOptions.cs",
               "RelativeDocumentMoniker": "MVP_1B2\\Services\\TwilioOptions.cs",
@@ -691,12 +893,11 @@
               "RelativeToolTip": "MVP_1B2\\Services\\TwilioOptions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-22T22:15:57.491Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-22T22:15:57.491Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 45,
               "Title": "Status.cshtml",
               "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Views\\License\\Status.cshtml",
               "RelativeDocumentMoniker": "MVP_1B2\\Views\\License\\Status.cshtml",
@@ -704,12 +905,11 @@
               "RelativeToolTip": "MVP_1B2\\Views\\License\\Status.cshtml",
               "ViewState": "AgIAACAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-22T02:08:58.577Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-22T02:08:58.577Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 46,
               "Title": "_LoginPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeDocumentMoniker": "MVP_1B2\\Views\\Shared\\_LoginPartial.cshtml",
@@ -717,12 +917,11 @@
               "RelativeToolTip": "MVP_1B2\\Views\\Shared\\_LoginPartial.cshtml",
               "ViewState": "AgIAACYAAAAAAAAAAAAkwDkAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-22T01:39:37.306Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-22T01:39:37.306Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 47,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Views\\Users\\Index.cshtml",
               "RelativeDocumentMoniker": "MVP_1B2\\Views\\Users\\Index.cshtml",
@@ -730,12 +929,11 @@
               "RelativeToolTip": "MVP_1B2\\Views\\Users\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-22T00:26:57.622Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-22T00:26:57.622Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 48,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Views\\Clients\\Index.cshtml",
               "RelativeDocumentMoniker": "MVP_1B2\\Views\\Clients\\Index.cshtml",
@@ -743,12 +941,11 @@
               "RelativeToolTip": "MVP_1B2\\Views\\Clients\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-29T02:51:26.234Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T02:51:26.234Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 49,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Views\\Clients\\Create.cshtml",
               "RelativeDocumentMoniker": "MVP_1B2\\Views\\Clients\\Create.cshtml",
@@ -756,38 +953,11 @@
               "RelativeToolTip": "MVP_1B2\\Views\\Clients\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-29T02:50:25.022Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T02:50:25.022Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "ClientsController.cs",
-              "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Controllers\\ClientsController.cs",
-              "RelativeDocumentMoniker": "MVP_1B2\\Controllers\\ClientsController.cs",
-              "ToolTip": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Controllers\\ClientsController.cs",
-              "RelativeToolTip": "MVP_1B2\\Controllers\\ClientsController.cs",
-              "ViewState": "AgIAAP0AAAAAAAAAAAAAwAIBAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T06:55:19.86Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "MVP_1B2.csproj",
-              "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\MVP_1B2.csproj",
-              "RelativeDocumentMoniker": "MVP_1B2\\MVP_1B2.csproj",
-              "ToolTip": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\MVP_1B2.csproj",
-              "RelativeToolTip": "MVP_1B2\\MVP_1B2.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-28T06:25:59.057Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 50,
               "Title": "ClientContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Migrations\\ClientContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "MVP_1B2\\Migrations\\ClientContextModelSnapshot.cs",
@@ -799,7 +969,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 51,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "MVP_1B2\\Controllers\\HomeController.cs",
@@ -811,7 +981,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 52,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "MVP_1B2\\Models\\ErrorViewModel.cs",
@@ -823,19 +993,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Models\\Employee.cs",
-              "RelativeDocumentMoniker": "MVP_1B2\\Models\\Employee.cs",
-              "ToolTip": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Models\\Employee.cs",
-              "RelativeToolTip": "MVP_1B2\\Models\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T06:24:07.671Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 53,
               "Title": "20250128063156_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Migrations\\20250128063156_InitialCreate.cs",
               "RelativeDocumentMoniker": "MVP_1B2\\Migrations\\20250128063156_InitialCreate.cs",
@@ -847,7 +1005,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 54,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\appsettings.Development.json",
               "RelativeDocumentMoniker": "MVP_1B2\\appsettings.Development.json",
@@ -859,7 +1017,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 55,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Views\\Employees\\Index.cshtml",
               "RelativeDocumentMoniker": "MVP_1B2\\Views\\Employees\\Index.cshtml",
@@ -871,7 +1029,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 63,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Views\\Employees\\Edit.cshtml",
               "RelativeDocumentMoniker": "MVP_1B2\\Views\\Employees\\Edit.cshtml",
@@ -883,7 +1041,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 57,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Views\\Clients\\Delete.cshtml",
               "RelativeDocumentMoniker": "MVP_1B2\\Views\\Clients\\Delete.cshtml",
@@ -895,7 +1053,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 59,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Views\\Employees\\Delete.cshtml",
               "RelativeDocumentMoniker": "MVP_1B2\\Views\\Employees\\Delete.cshtml",
@@ -907,7 +1065,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 56,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Views\\Services\\Index.cshtml",
               "RelativeDocumentMoniker": "MVP_1B2\\Views\\Services\\Index.cshtml",
@@ -919,7 +1077,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 58,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Views\\Clients\\Edit.cshtml",
               "RelativeDocumentMoniker": "MVP_1B2\\Views\\Clients\\Edit.cshtml",
@@ -931,7 +1089,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 61,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Views\\Clients\\Details.cshtml",
               "RelativeDocumentMoniker": "MVP_1B2\\Views\\Clients\\Details.cshtml",
@@ -943,7 +1101,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 60,
               "Title": "ClientsWithoutServices.cshtml",
               "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Views\\Clients\\ClientsWithoutServices.cshtml",
               "RelativeDocumentMoniker": "MVP_1B2\\Views\\Clients\\ClientsWithoutServices.cshtml",
@@ -955,7 +1113,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 62,
               "Title": "ClientsByCity.cshtml",
               "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Views\\Clients\\ClientsByCity.cshtml",
               "RelativeDocumentMoniker": "MVP_1B2\\Views\\Clients\\ClientsByCity.cshtml",
@@ -967,7 +1125,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 64,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Views\\Employees\\Details.cshtml",
               "RelativeDocumentMoniker": "MVP_1B2\\Views\\Employees\\Details.cshtml",
@@ -979,7 +1137,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 65,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Views\\Employees\\Create.cshtml",
               "RelativeDocumentMoniker": "MVP_1B2\\Views\\Employees\\Create.cshtml",
@@ -991,7 +1149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 66,
               "Title": "20250129025600_UpdateServiceRelations.cs",
               "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Migrations\\20250129025600_UpdateServiceRelations.cs",
               "RelativeDocumentMoniker": "MVP_1B2\\Migrations\\20250129025600_UpdateServiceRelations.cs",
@@ -1003,7 +1161,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 67,
               "Title": "20250129024626_UpdateServiceRelations.cs",
               "DocumentMoniker": "C:\\Users\\colle\\source\\repos\\MVP_1B2\\MVP_1B2\\Migrations\\20250129024626_UpdateServiceRelations.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\source\\repos\\MVP_1B2\\MVP_1B2\\Migrations\\20250129024626_UpdateServiceRelations.cs",
@@ -1015,7 +1173,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 68,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Views\\Services\\Create.cshtml",
               "RelativeDocumentMoniker": "MVP_1B2\\Views\\Services\\Create.cshtml",
@@ -1027,7 +1185,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 69,
               "Title": "20250128194814_UpdateTable.cs",
               "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Migrations\\20250128194814_UpdateTable.cs",
               "RelativeDocumentMoniker": "MVP_1B2\\Migrations\\20250128194814_UpdateTable.cs",
@@ -1039,7 +1197,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 70,
               "Title": "20250128075852_addEmployeeClientTable.cs",
               "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Migrations\\20250128075852_addEmployeeClientTable.cs",
               "RelativeDocumentMoniker": "MVP_1B2\\Migrations\\20250128075852_addEmployeeClientTable.cs",
@@ -1051,7 +1209,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 71,
               "Title": "20250128065126_MakeServiceIdAndPhotoOptional.cs",
               "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Migrations\\20250128065126_MakeServiceIdAndPhotoOptional.cs",
               "RelativeDocumentMoniker": "MVP_1B2\\Migrations\\20250128065126_MakeServiceIdAndPhotoOptional.cs",
@@ -1063,7 +1221,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 72,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\colle\\Desktop\\BCIT\\BCS\\Term 7\\Database Security\\MVP_1B2\\MVP_1B2\\Views\\People\\Create.cshtml",
               "RelativeDocumentMoniker": "MVP_1B2\\Views\\People\\Create.cshtml",
@@ -1076,7 +1234,7 @@
           ]
         },
         {
-          "DockedWidth": 1614,
+          "DockedWidth": 705,
           "SelectedChildIndex": -1,
           "Children": [
             {

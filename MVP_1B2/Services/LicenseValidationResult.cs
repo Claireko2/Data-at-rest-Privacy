@@ -1,4 +1,6 @@
-﻿namespace MVP_1B2.Services
+﻿using MVP_1B2.Models;
+namespace MVP_1B2.Services
+
 {
     public sealed class LicenseValidationResult
     {

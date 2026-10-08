@@ -97,6 +97,46 @@ namespace MVP_1B2.Migrations
                     b.ToTable("AspNetUsers", (string)null);
                 });
 
+            modelBuilder.Entity("MVP_1B2.Models.AuditLog", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Action")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Details")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("EntityId")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("EntityType")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Signature")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<DateTime>("TimestampUtc")
+                        .HasColumnType("datetime2(7)");
+
+                    b.Property<string>("UserId")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("AuditLogs");
+                });
+
             modelBuilder.Entity("MVP_1B2.Models.ClientService", b =>
                 {
                     b.Property<Guid>("ClientID")
@@ -301,14 +341,16 @@ namespace MVP_1B2.Migrations
                 {
                     b.HasBaseType("MVP_1B2.Models.Person");
 
-                    b.Property<decimal>("Balance")
-                        .HasColumnType("decimal(18,2)");
+                    b.Property<string>("Balance")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(128)");
 
-                    b.Property<DateTime>("DateOfBirth")
-                        .HasColumnType("datetime2");
+                    b.Property<string>("DateOfBirth")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(128)");
 
-                    b.Property<byte[]>("Photo")
-                        .HasColumnType("varbinary(max)");
+                    b.Property<string>("Photo")
+                        .HasColumnType("nvarchar(max)");
 
                     b.ToTable("Clients", (string)null);
                 });

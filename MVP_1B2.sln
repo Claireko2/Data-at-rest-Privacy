@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVP_1B2", "MVP_1B2\MVP_1B2.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVP_1B2.LicenseIssuer", "MVP_1B2.LicenseIssuer\MVP_1B2.LicenseIssuer.csproj", "{CE97C3A4-E614-486A-8EF0-31F3D253FDAD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyGenerator", "KeyGenerator\KeyGenerator.csproj", "{7D557349-D529-4BBA-9D47-39D08EEEADF4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{CE97C3A4-E614-486A-8EF0-31F3D253FDAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE97C3A4-E614-486A-8EF0-31F3D253FDAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE97C3A4-E614-486A-8EF0-31F3D253FDAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D557349-D529-4BBA-9D47-39D08EEEADF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D557349-D529-4BBA-9D47-39D08EEEADF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D557349-D529-4BBA-9D47-39D08EEEADF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D557349-D529-4BBA-9D47-39D08EEEADF4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

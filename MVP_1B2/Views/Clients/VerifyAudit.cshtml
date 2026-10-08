@@ -1,0 +1,49 @@
+﻿@{
+    ViewData["Title"] = "Verify Audit Signature";
+}
+
+<h1>Audit Signature Verification</h1>
+
+@if (ViewBag.IsValid)
+{
+    <div class="alert alert-success">
+        <strong>Signature Valid ✓</strong>
+        <p>The audit record has not been modified after it was signed.</p>
+    </div>
+}
+else
+{
+    <div class="alert alert-danger">
+        <strong>Signature Invalid ✗</strong>
+        <p>The audit record may have been modified or the signature is invalid.</p>
+    </div>
+}
+
+<hr />
+
+@{
+    var audit = ViewBag.AuditLog as MVP_1B2.Models.AuditLog;
+}
+
+@if (audit != null)
+{
+    <dl>
+        <dt>User</dt>
+        <dd>@audit.UserId</dd>
+
+        <dt>Action</dt>
+        <dd>@audit.Action</dd>
+
+        <dt>Entity Type</dt>
+        <dd>@audit.EntityType</dd>
+
+        <dt>Entity ID</dt>
+        <dd>@audit.EntityId</dd>
+
+        <dt>Timestamp</dt>
+        <dd>@audit.TimestampUtc</dd>
+
+        <dt>Details</dt>
+        <dd>@audit.Details</dd>
+    </dl>
+}

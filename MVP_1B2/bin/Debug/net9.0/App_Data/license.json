@@ -1,4 +1,11 @@
 {
-  "license": {"licenseId":"DEMO-EXPIRED-001","customerId":"DEMO-CORP","licenseType":"Trial","issuedAtUtc":"2026-09-18T23:28:55.5549631+00:00","validFromUtc":"2026-09-18T00:00:00+00:00","validUntilUtc":"2027-11-18T23:59:59+00:00"},
-  "signature": "Z84ejZyluedrx6yIzNhTVox\u002BfDudkHyOaP8VcLiUiJh/nLQUgdX1Aj12DeAyQbl2rVhNYIQlbstixmVslySo0SQSibaTv7LVbgYHmVHJcC6UJ2yU4cGtPCgBXbfPJC5OunWkRWTiUXohUiELqzm3MFYWzcpg6HjdwVHbt\u002BrYFg0yewuvYxLDLQveQwWE4ZJm3jz1o1TGkHGiDauk9JukGn5/P4YglIMw8J5MpogIWuB/KUWrWftFuaB5\u002Bqc9JiYnDXtOixf0DABoQIOu1MN3ovSawTGiDsTFIGgbA4S994p0nFOFNdi9r5k6UX1o0GJyTmiZqIH11yGNgzwUoxO8/vTAZNDkW5INXUp2hay7C3aUfDnTuCQNzVap1zkMMcssmhOhKlnHm8UTBKKKEGHvWF\u002BqYyQspitEjDFYGWGUB21qeeTe14/4LungBxeHrYv2bdIivOWY8UOYAC4vk82sIme4/wJRIqST/qXRE2Do\u002BNwS95/V3HjrTdoJnS9z4sUw"
+  "license": {
+    "licenseId": "DEMO-VALID-001",
+    "customerId": "DEMO-CORP",
+    "licenseType": "Trial",
+    "issuedAtUtc": "2026-10-07T23:02:59.7829306+00:00",
+    "validFromUtc": "2026-10-07T00:00:00+00:00",
+    "validUntilUtc": "2026-12-07T23:59:59+00:00"
+  },
+  "signature": "cwbSgnXS5/SZE7ivohgqgGXxyZr\u002B4hQ/7AqQZiyZ/cBRjH4Zw4LhQVCXGUq/CW81Zny1olgMltJz9jdO7e3krpv7Mb2SXJPDhNJjImTD89xlOHFEh/LQ90yZqQXNiypyz39gX\u002BYuzqahcgRAYH4dPa2GJihxVQpkdvTdYXv3WwvXgXavolIrfNcLLEPCuZEFmK1jPuCr1kIHG1UpGNXRTlTtBgqJDUWCIsk6unJsWuOZ1J3sMO8LwfmvXDdf48sATR\u002B\u002BJj160BWPtorHJ2PJsyNv5YS7QiKeLyFGe8fL\u002BeTfekfsOo1VniC5qyeB/llKhxQNN5ofbCNmzN9\u002BJLKWw06Gu99k6\u002BmzoLHDjen7QiiB3npqu7w3TeMHH0iy5sWZ5/\u002B9qAppPyyY7f5H7a3cC9epOq09Un2KPoQxzkWYSZ29v/wk0A1SiifC4Lf\u002BAoP0O\u002B6BPDwZICAvazuPg6dpKFsw7\u002BcRIHbQvQQ3X8Dhv6ejAlOfu1e6cKncKsmlczyi"
 }

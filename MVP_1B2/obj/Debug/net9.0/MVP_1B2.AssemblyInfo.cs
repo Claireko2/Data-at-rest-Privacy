@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MVP_1B2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+efb8373c37a9629984105b1dc353a8b01d5c8bb8")]
 [assembly: System.Reflection.AssemblyProductAttribute("MVP_1B2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MVP_1B2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

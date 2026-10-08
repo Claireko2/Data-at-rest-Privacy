@@ -61,8 +61,6 @@ wwwroot\lib\jquery\dist\jquery.slim.js
 wwwroot\lib\jquery\dist\jquery.slim.min.js
 wwwroot\lib\jquery\dist\jquery.slim.min.map
 wwwroot\lib\jquery\LICENSE.txt
-C:\Users\colle\Desktop\BCIT\BCS\Term 7\Database Security\MVP_1B2\MVP_1B2\wwwroot\css\site.css
-C:\Users\colle\Desktop\BCIT\BCS\Term 7\Database Security\MVP_1B2\MVP_1B2\wwwroot\favicon.ico
 C:\Users\colle\Desktop\BCIT\BCS\Term 7\Database Security\MVP_1B2\MVP_1B2\wwwroot\lib\jquery\LICENSE.txt
 C:\Users\colle\Desktop\BCIT\BCS\Term 7\Database Security\MVP_1B2\MVP_1B2\wwwroot\lib\jquery\dist\jquery.slim.min.map
 C:\Users\colle\Desktop\BCIT\BCS\Term 7\Database Security\MVP_1B2\MVP_1B2\wwwroot\lib\jquery\dist\jquery.slim.min.js
@@ -123,3 +121,5 @@ C:\Users\colle\Desktop\BCIT\BCS\Term 7\Database Security\MVP_1B2\MVP_1B2\wwwroot
 C:\Users\colle\Desktop\BCIT\BCS\Term 7\Database Security\MVP_1B2\MVP_1B2\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
 C:\Users\colle\Desktop\BCIT\BCS\Term 7\Database Security\MVP_1B2\MVP_1B2\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 C:\Users\colle\Desktop\BCIT\BCS\Term 7\Database Security\MVP_1B2\MVP_1B2\wwwroot\js\site.js
+C:\Users\colle\Desktop\BCIT\BCS\Term 7\Database Security\MVP_1B2\MVP_1B2\wwwroot\favicon.ico
+C:\Users\colle\Desktop\BCIT\BCS\Term 7\Database Security\MVP_1B2\MVP_1B2\wwwroot\css\site.css

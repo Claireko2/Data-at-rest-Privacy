@@ -78,6 +78,10 @@ public class Program
                 });
         });
 
+        builder.Services.AddSingleton<AesGcmEncryptionService>();
+        builder.Services.AddSingleton<NonRepudiationService>();
+        builder.Services.AddScoped<AuditService>();
+
         // Database
         builder.Services.AddDbContext<ClientContext>(options =>
             options.UseSqlServer(
@@ -166,15 +170,112 @@ public class Program
 
 
         //License
-        builder.Services.Configure<LicenseOptions>(
-        builder.Configuration.GetSection("License"));
+       // builder.Services.Configure<LicenseOptions>(
+       // builder.Configuration.GetSection("License"));
 
-        builder.Services.AddSingleton<
-            ILicenseService,
-            LicenseService>();
+       // builder.Services.AddSingleton<
+        //   ILicenseService,
+        //    LicenseService>();
+        
+        //Stream cipher
+        builder.Services.AddSingleton<CustomStreamCipherService>();
+        builder.Services.AddSingleton<LicenseVerificationService>();
 
         // Build application
         var app = builder.Build();
+
+        // ============================================================
+        // License verification at application startup
+        // ============================================================
+
+        using (var scope = app.Services.CreateScope())
+        {
+            var licenseService =
+                scope.ServiceProvider
+                    .GetRequiredService<LicenseVerificationService>();
+
+            var licensePath =
+                Path.Combine(
+                    app.Environment.ContentRootPath,
+                    "App_Data",
+                    "license.json");
+
+            Console.WriteLine(
+                $"License path: {licensePath}");
+
+            Console.WriteLine(
+                $"License exists: {File.Exists(licensePath)}");
+
+            var license =
+                licenseService.LoadLicense(
+                    licensePath);
+
+
+            bool signatureValid =
+                licenseService.VerifySignature(license);
+
+            bool dateValid =
+                licenseService.IsWithinValidityPeriod(
+                    license.License);
+
+            bool licenseValid = signatureValid && dateValid;
+
+            Console.WriteLine(
+                $"License ID: {license.License.LicenseId}");
+
+            Console.WriteLine(
+                $"License signature valid: {signatureValid}");
+
+            Console.WriteLine(
+                $"License date valid: {dateValid}");
+
+            Console.WriteLine(
+                $"Valid from: {license.License.ValidFromUtc:O}");
+
+            Console.WriteLine(
+                $"Valid until: {license.License.ValidUntilUtc:O}");
+
+            Console.WriteLine(
+                $"Current UTC: {DateTimeOffset.UtcNow:O}");
+
+         
+            Console.WriteLine(
+                $"Overall license valid: {licenseValid}");
+
+            Console.WriteLine(
+                $"License verified: {license.License.LicenseId}");
+
+            Console.WriteLine(
+                $"License type: {license.License.LicenseType}");
+
+            if (!licenseValid)
+            {
+                Console.WriteLine();
+                Console.WriteLine(
+                    "WARNING: The application license is not valid.");
+                Console.WriteLine(
+                    "Visit /License/Status for more information.");
+                Console.WriteLine();
+            }
+            else
+            {
+                Console.WriteLine();
+                Console.WriteLine(
+                    $"License verified: {license.License.LicenseId}");
+                Console.WriteLine();
+            }
+        }
+
+
+        // Seed Identity roles/admin
+        using (var scope = app.Services.CreateScope())
+        {
+            await IdentitySeeder.SeedRolesAsync(
+                scope.ServiceProvider);
+
+            await IdentitySeeder.SeedAdminAsync(
+                scope.ServiceProvider);
+        }
 
         // Seed Identity roles/admin
         using (var scope = app.Services.CreateScope())
@@ -203,7 +304,7 @@ public class Program
 
         app.UseAuthentication();
 
-        app.UseMiddleware<LicenseValidationMiddleware>();
+       // app.UseMiddleware<LicenseValidationMiddleware>();
 
         app.UseAuthorization();
 

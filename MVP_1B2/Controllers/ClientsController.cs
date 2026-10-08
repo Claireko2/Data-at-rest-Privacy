@@ -5,6 +5,7 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using MVP_1B2;
 using MVP_1B2.Models;
+using MVP_1B2.Services;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -16,12 +17,14 @@ namespace MVP_1B2.Controllers
     public class ClientsController : Controller
     {
         private readonly ClientContext _context;
+        private readonly AuditService _auditService;
         private readonly UserManager<ApplicationUser> _userManager;
-        public ClientsController(ClientContext context, UserManager<ApplicationUser> userManager)
+        public ClientsController(ClientContext context, UserManager<ApplicationUser> userManager, AuditService auditService)
                
         {
             _context = context;
             _userManager = userManager;
+            _auditService = auditService;
         }
 
         //Profile action
@@ -252,6 +255,16 @@ namespace MVP_1B2.Controllers
             // Save Client + ClientServices
             await _context.SaveChangesAsync();
 
+            var userId =
+                User.Identity?.Name ?? "Unknown";
+
+                        await _auditService.LogAsync(
+                            userId,
+                            "Create",
+                            "Client",
+                            client.ID.ToString(),
+                            "Created client");
+
             TempData["Success"] =
                 $"Client account created successfully. Temporary password: {temporaryPassword}";
 
@@ -361,6 +374,15 @@ namespace MVP_1B2.Controllers
             // Mark the entity as modified and save changes
             _context.Clients.Update(existingClient);
             await _context.SaveChangesAsync();
+            var userId =
+                User.Identity?.Name ?? "Unknown";
+
+                        await _auditService.LogAsync(
+                            userId,
+                            "Edit",
+                            "Client",
+                            client.ID.ToString(),
+                            "Edited client");
 
             return RedirectToAction(nameof(Index));
         }
@@ -542,6 +564,23 @@ namespace MVP_1B2.Controllers
         private bool ClientExists(Guid id)
         {
             return _context.Clients.Any(e => e.ID == id);
+        }
+
+        [Authorize(Roles = "Administrator,Manager,Employee")]
+        public async Task<IActionResult> VerifyAudit(int id)
+        {
+            var auditLog = await _context.AuditLogs
+                .FirstOrDefaultAsync(a => a.Id == id);
+
+            if (auditLog == null)
+                return NotFound();
+
+            bool isValid = _auditService.Verify(auditLog);
+
+            ViewBag.IsValid = isValid;
+            ViewBag.AuditLog = auditLog;
+
+            return View();
         }
     }
 }
