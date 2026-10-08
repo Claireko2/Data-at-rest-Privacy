@@ -1,3 +1,0 @@
-Hello!
-This is my first encrypted file.
-This file is encrypted using my custom stream cipher.
